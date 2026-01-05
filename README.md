@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mahek 👋
 
-<!--
-**mahek-builds/mahek-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (Information Technology) Student  
+💻 Strong in DSA using C++  
+🤖 Aspiring Data Scientist with interest in AI & ML  
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- Currently pursuing **B.Tech in IT**
+- Practicing **Data Structures & Algorithms in C++**
+- Experienced with **Machine Learning, Deep Learning & NLP**
+- Building backend APIs using **FastAPI**
+- Passionate about learning and applying AI to real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Languages:**  
+- C++, Python 
+
+**Machine Learning & AI:**  
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- TensorFlow, Keras  
+- Deep Learning  
+- NLP  
+
+**Backend & Tools:**  
+- FastAPI  
+- Git & GitHub  
+- VS Code  
+
+## 📚 Currently Learning
+- Advanced DSA & Problem Solving  
+- Model Optimization & Deployment  
+- Backend integration with ML models  
+
+## 🚀 Career Goal
+Aspiring **Data Scientist** aiming to build impactful AI-driven solutions and grow through hands-on projects and open-source contributions.
+
+## 🔗 Connect with Me
+- 💼 LinkedIn:https://www.linkedin.com/in/contactmahekbhatia/
