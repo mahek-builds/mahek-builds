@@ -1,8 +1,10 @@
 # Hi, I'm Mahek 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=xiaohuohumaxS&color=blue&style=flat-square&label=PROFILE+VIEWS)
 🎓 B.Tech (Information Technology) Student  
 💻 Strong in DSA using C++  
 🤖 Aspiring Data Scientist with interest in AI & ML  
+
 
 ## 🧠 About Me
 - Currently pursuing **B.Tech in IT**
