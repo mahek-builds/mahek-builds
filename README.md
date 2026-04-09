@@ -41,3 +41,4 @@ Aspiring **Data Scientist** aiming to build impactful AI-driven solutions and gr
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn:https://www.linkedin.com/in/contactmahekbhatia/
+- “Open to Internship & Real‑World Projects — B.Tech IT Student focused on AI & Full‑Stack.”
