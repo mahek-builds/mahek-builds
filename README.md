@@ -19,7 +19,7 @@
 ---
 
 ## What I Build
-- Responsive **React** interfaces for dashboards, forms, and product pages
+- Responsive **React** ,**Streamlit** interfaces for dashboards, forms, and product pages
 - **REST APIs** with FastAPI/Flask connected to PostgreSQL or other databases
 - ML-enabled features for data cleaning, model training, and inference endpoints
 - Small production-style builds with Git, Docker, Postman, and deployment workflows
