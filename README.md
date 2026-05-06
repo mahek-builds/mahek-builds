@@ -78,17 +78,6 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-	<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahek-builds&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
