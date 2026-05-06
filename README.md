@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahek Bhatia</h1>
-<h3 align="center">>Full Stack & AI Developer | GSSoC'26 Contributor | Building practical software systems</h3>
+<h3 align="center">Full Stack & AI Developer | GSSoC'26 Contributor | Building practical software systems</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Selected-00C853?style=for-the-badge" />
+</p>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=xiaohuohumaxS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
