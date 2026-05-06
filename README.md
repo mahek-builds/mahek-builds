@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack & AI Developer | GSSoC'26 Contributor | Building practical software systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Selected-00C853?style=for-the-badge" />
+  <img src="https://gssoc.girlscript.org/badges/contributor.png" height="100"/>
+  <img src="https://ci3.googleusercontent.com/meips/ADKq_NbTDs1-ya2WBbo6WLm1CYyWXioG0zky4Dxig_obaa1YmjAKHo0rmI4sobauGwYambAZf_SjtRuuF3MQ7T38xMU=s0-d-e1-ft#https://gssoc.girlscript.org/badges/ai.png" height="100"/>
 </p>
 
 <p align="center">
