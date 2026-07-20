@@ -143,4 +143,5 @@
 
 <p align="center">
 	⭐ If you like my work, consider starring my repositories.
-</p> add here i got two badges
+</p>
+
