@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahek Bhatia</h1>
-<h3 align="center">Full Stack & AI Developer | GSSoC'26 Contributor | Building practical software systems</h3>
+<h3 align="center">AI/GenAI Engineer | Agentic AI • LLMs • RAG | Python • LangGraph • FastAPI | DSA & C++
+</h3>
 
 <p align="center">
   <img src="https://gssoc.girlscript.org/badges/contributor.png" height="100"/>
