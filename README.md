@@ -14,12 +14,12 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing **B.Tech in Information Technology**
-- 🧠 Building strong fundamentals in **Data Structures & Algorithms (C++)**
-- 🌐 Working on **React.js** frontend interfaces and user flows
-- ⚙️ Developing APIs with **FastAPI/Flask** and **PostgreSQL**
-- 🤖 Applying **Machine Learning, NLP, and Generative AI** to practical use cases
-- 🚀 Working with deployment workflows, **Docker**, and platforms like **Hugging Face**, **Render**, **Vercel**, and **Railway**
+-  Pursuing **B.Tech in Information Technology**
+-  Building strong fundamentals in **Data Structures & Algorithms (C++)**
+-  Working on **React.js** frontend interfaces and user flows
+-  Developing APIs with **FastAPI/Flask** and **PostgreSQL**
+-  Applying **Machine Learning, NLP, and Generative AI** to practical use cases
+-  Working with deployment workflows, **Docker**, and platforms like **Hugging Face**, **Render**, **Vercel**, and **Railway**
 - 🎯 Looking for internship opportunities where I can contribute and learn through real product work
 
 ---
