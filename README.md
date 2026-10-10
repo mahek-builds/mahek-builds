@@ -7,10 +7,6 @@
   <img src="https://ci3.googleusercontent.com/meips/ADKq_NbTDs1-ya2WBbo6WLm1CYyWXioG0zky4Dxig_obaa1YmjAKHo0rmI4sobauGwYambAZf_SjtRuuF3MQ7T38xMU=s0-d-e1-ft#https://gssoc.girlscript.org/badges/ai.png" height="100"/>
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=xiaohuohumaxS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
